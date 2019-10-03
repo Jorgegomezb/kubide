@@ -23,7 +23,6 @@
 
 
     $frase->setId((int)$id);
-    echo "xjlkzljksadslkj   ". $frase->getId_frase();
 
     // Get post
     $frase->getFrase();
